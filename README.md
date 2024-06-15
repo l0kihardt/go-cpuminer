@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/docker/pulls/esrrhs/go-cpuminer">](https://hub.docker.com/repository/docker/esrrhs/go-cpuminer)
 [<img src="https://img.shields.io/github/actions/workflow/status/esrrhs/go-cpuminer/go.yml?branch=master">](https://github.com/esrrhs/go-cpuminer/actions)
 
-go-cpuminer是go实现的cpu挖矿工具
+go-cpuminer是go实现的cpu挖矿工具.
 
 [Readme EN](./README_EN.md)
 
